@@ -106,6 +106,9 @@ Elite Market is a dynamic and responsive e-commerce web application designed to 
 
 ## **5. GitHub Repository Structure**
 
+The project is organized as follows:
+
+```plaintext
 elite-market/
 ├── public/
 │   ├── assets/
@@ -163,6 +166,7 @@ elite-market/
 ├── sanity.config.ts
 ├── tailwind.config.ts
 └── tsconfig.json
+
 
 ---
 
